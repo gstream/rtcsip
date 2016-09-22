@@ -4,8 +4,6 @@ Communication engine that wraps WebRTC and reSIProcate libraries to establish a 
 
 Source code is released under free BSD license.
 
-To clone the repository type the following command: git clone https://github.com/runamedia/rtcsip.git --recursive
-
 At the moment, the only supported develpment platform is OSX.
 
 ## Install instructions for Android
